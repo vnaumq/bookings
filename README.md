@@ -1,6 +1,8 @@
 
 <h1 align="center" style="color:White">BOOKINGS</h1>
 
+![ViewCount](https://views.whatilearened.today/views/github/vnaumq/bookings.svg?cache=remove)
+
 ------
 <h3 align="center" style="color:White">INTRODUCTION </h3>
 
